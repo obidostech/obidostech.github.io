@@ -44,7 +44,25 @@
             <p><span id="malayalamOutput" style="font-size:35px;border:1px dotted blue;"></span></p>
         </div>
     </div>
+
+
+
+<div class="row mt-5">
+	<div class="col-12">
+
+ <a href='http://www.freevisitorcounters.com'>Free Counters</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=a075db3e6b8f02efef66055443bc4b60d58f7afe'></script>
+<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1166357/t/0"></script>
+ 
+	</div>
 </div>
+
+
+
+
+ 
+</div>
+
+
 
 <script>
     const translations = {
